@@ -1,6 +1,18 @@
 # Intro to Vue 2 - Revisited
 
-> A Vue.js project
+This is a project I created, based on the `Intro to Vue 2` free course provided
+by [Vue Mastery](https://www.vuemastery.com/).
+
+The project is a simple application presenting a `single Product page`.
+I have enhanced the project with my own personal tweaks, such
+as `separating the single file presented in the course to multiple files` etc.
+
+The project is licensed under the MIT License, and you are free to use, copy, modify, merge, publish, distribute,
+sublicense,
+and/or sell copies of the software, subject to the terms and conditions of the license.
+
+
+> Intro to Vue 2 - Revisited
 
 ## Build Setup
 
@@ -23,6 +35,11 @@ npm run unit
 # run all tests
 npm test
 ```
+
+## License
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/)
 and [docs for vue-loader](http://vuejs.github.io/vue-loader).
