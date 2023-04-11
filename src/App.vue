@@ -58,33 +58,11 @@ body {
   margin-bottom: 15px;
 }
 
-.product {
-  display: flex;
-  flex-flow: wrap;
-  padding: 1rem;
-}
-
 img {
   border: 1px solid #d8d8d8;
   width: 70%;
   margin: 40px;
   box-shadow: 0 .5px 1px #d8d8d8;
-}
-
-.product-image {
-  width: 80%;
-}
-
-.product-image,
-.product-info {
-  margin-top: 10px;
-  width: 50%;
-}
-
-.color-box {
-  width: 40px;
-  height: 40px;
-  margin-top: 5px;
 }
 
 .cart {
@@ -104,21 +82,6 @@ button {
   font-size: 14px;
 }
 
-.disabledButton {
-  background-color: #d8d8d8;
-}
-
-.review-form {
-  width: 400px;
-  padding: 20px;
-  margin: 40px;
-  border: 1px solid #d8d8d8;
-}
-
-.out-of-stock {
-  text-decoration: line-through;
-}
-
 input {
   width: 100%;
   height: 25px;
@@ -130,13 +93,4 @@ textarea {
   height: 60px;
 }
 
-.tab {
-  margin-left: 20px;
-  cursor: pointer;
-}
-
-.activeTab {
-  color: #16C0B0;
-  text-decoration: underline;
-}
 </style>

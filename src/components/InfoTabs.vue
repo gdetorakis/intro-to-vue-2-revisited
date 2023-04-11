@@ -47,5 +47,13 @@ export default {
 </script>
 
 <style scoped>
+.tab {
+  margin-left: 20px;
+  cursor: pointer;
+}
 
+.activeTab {
+  color: #16C0B0;
+  text-decoration: underline;
+}
 </style>

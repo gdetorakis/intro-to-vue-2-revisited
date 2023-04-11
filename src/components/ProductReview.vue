@@ -74,5 +74,10 @@ export default {
 </script>
 
 <style scoped>
-
+  .review-form {
+    width: 400px;
+    padding: 20px;
+    margin: 40px;
+    border: 1px solid #d8d8d8;
+  }
 </style>

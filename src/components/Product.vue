@@ -114,5 +114,33 @@ export default {
 </script>
 
 <style scoped>
+.product {
+  display: flex;
+  flex-flow: wrap;
+  padding: 1rem;
+}
 
+.out-of-stock {
+  text-decoration: line-through;
+}
+
+.product-image {
+  width: 80%;
+}
+
+.product-image,
+.product-info {
+  margin-top: 10px;
+  width: 50%;
+}
+
+.color-box {
+  width: 40px;
+  height: 40px;
+  margin-top: 5px;
+}
+
+.disabledButton {
+  background-color: #d8d8d8;
+}
 </style>
